@@ -1,0 +1,4 @@
+browser chrome
+url1  http://localhost:8888/
+username1 admin
+password1 admin
